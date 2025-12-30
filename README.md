@@ -1,5 +1,3 @@
-# codsoft_task-1
-
 # 👩🏻‍💻 My First Portfolio
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
